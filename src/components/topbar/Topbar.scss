@@ -1,0 +1,38 @@
+.topbar {
+    background-color: #000000;
+    color: #ffffff;
+    height: 1.5rem;
+    display: flex;
+    align-content: space-around;
+    width: 100%;
+    font-size: 12px;
+}
+
+.twitter {
+    background-image: url("./src/assets/img/icons/social-media/twitter.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 12px;
+    min-height: 12px;
+    display: inline-block;
+}
+
+.facebook {
+    display: inline-block;
+    background-image: url("./src/assets/img/icons/social-media/facebook.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 12px;
+    min-height: 12px;
+
+
+}
+
+.instagram {
+    display: inline-block;
+    background-image: url("./src/assets/img/icons/social-media/instagram.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 12px;
+    min-height: 12px;
+}
